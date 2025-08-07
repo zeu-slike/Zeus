@@ -1,3 +1,0 @@
-vmess://example1
-vless://example2
-trojan://example3

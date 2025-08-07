@@ -22,25 +22,13 @@ jobs:
       - name: Extract VLESS & VMess links
         run: |
           mkdir -p configs
-          python3 - <<EOF
-import re
-input_file = 'configs/proxy_configs.txt'
-output_file = 'configs/vmess_vless.txt'
-
-try:
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-except FileNotFoundError:
-    print(f"{input_file} not found.")
-    exit(1)
-
-filtered = [line.strip() for line in lines if line.strip().startswith(('vmess://', 'vless://'))]
-
-with open(output_file, 'w', encoding='utf-8') as f:
-    f.write('\n'.join(filtered))
-
-print(f"{len(filtered)} VLESS/VMess links written to {output_file}")
-EOF
+          echo "with open('configs/proxy_configs.txt', 'r', encoding='utf-8') as f:" > extract.py
+          echo "    lines = f.readlines()" >> extract.py
+          echo "filtered = [line.strip() for line in lines if line.strip().startswith(('vmess://', 'vless://'))]" >> extract.py
+          echo "with open('configs/vmess_vless.txt', 'w', encoding='utf-8') as f:" >> extract.py
+          echo "    f.write('\\n'.join(filtered))" >> extract.py
+          echo "print(f'{len(filtered)} links extracted')" >> extract.py
+          python3 extract.py
 
       - name: Commit and push
         run: |

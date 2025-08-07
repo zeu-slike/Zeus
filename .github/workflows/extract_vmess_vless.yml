@@ -19,29 +19,23 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Extract fresh VLESS & VMess links (overwrite mode)
+      - name: Create Python Script to Extract VLESS & VMess
         run: |
-          python3 << 'EOF'
-import re
+          echo "import re" > extract_links.py
+          echo "with open('configs/proxy_configs.txt', 'r', encoding='utf-8') as f:" >> extract_links.py
+          echo "    lines = f.readlines()" >> extract_links.py
+          echo "valid = [line.strip() for line in lines if line.strip().startswith(('vmess://', 'vless://'))]" >> extract_links.py
+          echo "with open('configs/vmess_vless.txt', 'w', encoding='utf-8') as f:" >> extract_links.py
+          echo "    f.write('\\n'.join(valid))" >> extract_links.py
+          echo "print(f'{len(valid)} valid links saved to configs/vmess_vless.txt')" >> extract_links.py
 
-input_path = 'configs/proxy_configs.txt'
-output_path = 'configs/vmess_vless.txt'
-
-with open(input_path, 'r', encoding='utf-8') as f:
-    lines = f.readlines()
-
-valid = [line.strip() for line in lines if line.strip().startswith(('vmess://', 'vless://'))]
-
-with open(output_path, 'w', encoding='utf-8') as f:
-    f.write('\n'.join(valid))
-
-print(f"{len(valid)} valid links saved to {output_path}")
-EOF
+      - name: Run Python Script
+        run: python3 extract_links.py
 
       - name: Commit and Push Changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add configs/vmess_vless.txt
-          git commit -m "Update vmess_vless.txt from proxy_configs.txt" || echo "No changes to commit"
+          git commit -m "Auto-update vmess_vless.txt" || echo "No changes"
           git push

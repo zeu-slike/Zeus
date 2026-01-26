@@ -29,6 +29,7 @@ vless://27132599-27db-4089-8238-4b7b94de500e@ert-3.v-sub.site:8880?security=none
 vless://27132599-27db-4089-8238-4b7b94de500e@ert-4.v-sub.site:8880?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2080&host=norton-vip.cfd#@meliproxyy
 vless://27132599-27db-4089-8238-4b7b94de500e@ert-7.v-sub.site:8880?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2080&host=my.v-sub.site#@meliproxyy
 vless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=u1.mizulina.top#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S104
+vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&allowInsecure=1&type=ws&host=delta090.qzz.io&path=%2F146.56.99.255%3D56789#NetAccount
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?path=%2F146.56.99.255%3D56789&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S127
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?path=%2F47.250.139.59%3D443&security=tls&encryption=none&host=dragonhost9.qzz.io&type=ws&sni=dragonhost9.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S123
 vless://32c257a1-f18c-42c7-860d-9cb0ead8b07c@188.114.98.0:443?path=%2F47.250.139.59%3D443&security=tls&encryption=none&host=dragonhost9.qzz.io&type=ws&sni=dragonhost9.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S125
@@ -80,6 +81,9 @@ vless://66247b1e-053a-44bf-ae3c-06437b87b3e6@45.145.41.181:98?mode=auto&path=%2F
 vless://66247b1e-053a-44bf-ae3c-06437b87b3e6@45.145.41.181:98?mode=auto&path=%2F&security=reality&encryption=none&pbk=-VZ3qK6joS4VOx3GkpDbaA9RzVUcrcivmA1RstOSHzY&fp=firefox&spx=%2F&type=xhttp&sni=www.latimes.com&sid=cd59#@meliproxyy
 vless://664647b0-cf64-4560-b899-b92404b1798e@5.175.249.126:450?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://664647b0-cf64-4560-b899-b92404b1798e@5.175.249.126:450?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S111
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&fp=chrome&type=ws&host=delta090.qzz.io&path=%2F45.76.183.217%3D49292#NetAccount
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&type=ws&host=delta090.qzz.io&path=%2F156.244.1.250%3D8443#NetAccount
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&type=ws&host=delta090.qzz.io&path=%2F45.76.183.217%3D49292#NetAccount
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%40configraygan+v20+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S124
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#%E2%9A%A1Telegram%20%3D%20%40hamedvpns💜🖖
@@ -91,6 +95,7 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=%2F45.76.183
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S124
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=delta090.qzz.io#@meliproxyy
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#NetAccount
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?encryption=none&security=tls&sni=delta090.qzz.io&fp=chrome&type=ws&host=delta090.qzz.io&path=%2F45.76.183.217%3D49292#NetAccount
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=delta090.qzz.io#@meliproxyy
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#@meliproxyy
 vless://6b8e6526-06c2-4baa-8faf-a95f89104630@wizardxray.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#@melipeoxyy
@@ -145,13 +150,14 @@ vless://d0c3b1f9-8161-44e1-9f9f-01c45b969966@base.zdshop.ir:2086?path=%2F%3Fed%3
 vless://d0c3b1f9-8161-44e1-9f9f-01c45b969966@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=sjcahbjhdbfvksfhkvbhskkskhvbhfhkvbshksfbfvkhfbkhfbvkfskbvtr.blackpapers.ir&type=ws#@meliproxyy
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#@meliproxyy
 vless://dca08a58-06c2-441e-b8ea-72eb898d1874@st2.pmme5.top:20443/?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@meliproxyy
-vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@SpeedTest.neT:80?path=%2F&security=none&encryption=none&host=Wwwfffffii.Global.ssl.fastly.neT.&type=ws#NetAccount
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&security=none&encryption=none&host=Alliiiiiii.Global.ssl.Fastly.neT&type=ws#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&security=none&encryption=none&host=Alliiiiiii.Global.ssl.Fastly.neT&type=ws#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2%20-%20S115
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&security=none&encryption=none&host=Alliiiiiii.Global.ssl.Fastly.neT&type=ws#@meliproxyy
 vless://dfb10506-3ee8-414c-c2f4-9d1bb75bf363@fast1.p31download.com:80?path=%2F&security=none&encryption=none&host=Webar.Global.sSl.fastly.neT.&type=ws#@meliproxyy
 vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sg.aniua.qzz.io&type=ws&allowInsecure=1&sni=sg.aniua.qzz.io#@meliproxyy
 vless://e6af2417-0a79-4521-aa2a-de1c2f105188@it-ip.gameirani.com:500?security=reality&encryption=none&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=bea5eb2fcf6b183c#%40configraygan+v16
+vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&type=ws&host=delta090.qzz.io&path=%2F138.2.48.109%3A26412#NetAccount
+vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?encryption=none&security=tls&sni=delta090.qzz.io&type=ws&host=delta090.qzz.io&path=%2F35.78.229.176%3A443#NetAccount
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=%2F107.174.198.228%3A8443&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=%2F107.175.245.116%3A8443&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@188.114.98.0:443?path=%2F112.185.223.152%3A50001&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
